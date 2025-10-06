@@ -9,7 +9,7 @@ import NotFound from './pages/NotFound';
 function App() {
     return (
         <ConfigProvider locale={ruRU}>
-            <BrowserRouter>
+            <BrowserRouter basename="/wiam-test-task">
                 <div className="App">
                     <Routes>
                         <Route path="/" element={<Navigate to="/form/personal" replace />} />
