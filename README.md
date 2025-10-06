@@ -6,6 +6,7 @@
 
 ## Демо
 Рабочая версия проекта доступна на [GitHub Pages](https://smenikdov.github.io/wiam-test-task)
+Также можно посмотреть проект на [CodeSandBox](https://codesandbox.io/p/github/smenikdov/wiam-test-task/master)
 
 ## Установка и запуск
 
